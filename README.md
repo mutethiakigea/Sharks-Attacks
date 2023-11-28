@@ -26,7 +26,7 @@ Contributions
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide suggestions for improvement.
 
 Dataset Information
-The dataset used for this project is sourced from [provide data source information]. It contains detailed information about shark attacks, including location, time, severity, and other relevant attributes.
+The dataset used for this project is sourced from kaggle. It contains detailed information about shark attacks, including location, time, severity, and other relevant attributes.
 
 Acknowledgments
-Special thanks to [mention any contributors, datasets, or resources used] for their valuable contributions to this project.
+Special thanks to Kaggle for their valuable contributions to this project.
